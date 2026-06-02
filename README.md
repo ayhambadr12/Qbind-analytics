@@ -53,7 +53,7 @@ pip install qiskit qiskit-nature qiskit-algorithms qiskit-aer pyscf matplotlib
 jupyter notebook
 ```
 
-Open `h2_lih_vqe.ipynb` and run all cells.
+Open `demo.ipynb` and run all cells.
 
 ## System Requirements
 
